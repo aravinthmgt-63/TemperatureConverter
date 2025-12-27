@@ -1,7 +1,7 @@
 body{
   background-image: linear-gradient(to right , blue , violet);
   display: flex;
-  margin-top: 8vh;
+  margin-top: 10vh;
   align-items: center;
   justify-content: center;
   padding:0 10px;
@@ -80,3 +80,4 @@ p{
   font-size: 20px;
 
 }
+
